@@ -37,7 +37,7 @@ def _out_power(x):
 
 
 class Device(DeviceBase, UpdatableProps):
-    """River 3"""
+    """Delta 3 Plus"""
 
     SN_PREFIX = b"P3"
     NAME_PREFIX = "EF-D3"
