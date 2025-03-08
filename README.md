@@ -11,6 +11,7 @@ Recognized devices:
 * Smart Home Panel 2 (EF-HD3####, FW Version: 4.0.0.122, WiFi Version: 2.0.1.20)
 * Delta Pro Ultra (EF-YJ####, FW Version: 5.0.0.25, WiFi Version: 2.0.2.4)
 * River 3, River 3 Plus (EF-R3####, FW Version: 1.0.0.0)
+* Delta 3 Plus (EF-D3####, FW Version: 6.49.74.44)
 
 **NOTICE**: this integration utilizes Bluetooth LE of the EF device, which is supporting just one
 connection at a time - so if you want to manage the device through BLE from your phone, you will
